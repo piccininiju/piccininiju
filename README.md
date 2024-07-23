@@ -6,18 +6,18 @@ I'm a designer transitioning to computer science! :rainbow:
 - 📫 Email me at julianapiccininim@gmail.com
 - :globe_with_meridians: Know more about me at <span> <a href="https://www.linkedin.com/in/juliana-piccinini-81828a121/" > Linkedin</span>
 
-![sb](https://tenor.com/search/spongebob+squarepants-gifs)
+![sb](https://github.com/piccininiju/piccininiju/blob/943224677985a405e339d75c4c20a0476a999fb4/spongebob-squarepants-gay.gif)
 
 ## Skills
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"  width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"  width="40" height="40"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="30" height="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40"/> 
      
 </div>
 
