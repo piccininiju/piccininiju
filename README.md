@@ -4,7 +4,7 @@ I'm a designer transitioning to computer science! :rainbow:
 - 🌱 I’m currently learning JavaScript and Python
 - :heartpulse: I read books and play games
 - 📫 Email me at julianapiccininim@gmail.com
-- :globe_with_meridians: Know more about me at <span> <a target="blank" href="https://www.linkedin.com/in/juliana-piccinini-81828a121/" > Linkedin</span>
+- :globe_with_meridians: Know more about me at <span> <a target="_blank" href="https://www.linkedin.com/in/juliana-piccinini-81828a121/" > Linkedin</span>
 
 ![sb](https://github.com/piccininiju/piccininiju/blob/943224677985a405e339d75c4c20a0476a999fb4/spongebob-squarepants-gay.gif)
 
