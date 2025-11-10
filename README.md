@@ -12,7 +12,7 @@ I'm a developer and designer! :rainbow:
 
 <div>
  
-<img src="https://skillicons.dev/icons?i=java,python,typescript,sass,react,javascript,python,mysql,html,css,git,vscode&theme=dark&perline=15" />
+<img src="https://skillicons.dev/icons?i=java,python,typescript,sass,react,javascript,mysql,html,css,git,vscode&theme=dark&perline=15" />
   
 
      
